@@ -10,7 +10,7 @@ Este repositório contém meu trabalho no curso de Python para Análise de Dados
 
 * Cálculos e Análise Estatística com Numpy: Realização de operações e cálculos estatísticos em grandes volumes de dados.
 
-*Visualização de Dados com Matplotlib e Seaborn: Criação de gráficos para análise visual dos dados.
+* Visualização de Dados com Matplotlib e Seaborn: Criação de gráficos para análise visual dos dados.
 
 * Análise de Dados com SQL e Python: Integrando SQL e Python para análise de dados estruturados.
 
